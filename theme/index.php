@@ -4,6 +4,6 @@
  *
  * @link https://core.trac.wordpress.org/ticket/54272
  *
- * @package ale
+ * @package serjik-fse
  * @since 1.0.0
  */

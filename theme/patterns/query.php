@@ -1,11 +1,11 @@
 <?php
 /**
  * Title: Query
- * Slug: ale/query
+ * Slug: serjik-fse/query
  * Categories: posts
  * Block Types: core/post-conent, core/query, core/post-title
  *
- * @package ale
+ * @package serjik-fse
  * @since 1.0.0
  */
 ?>
@@ -14,14 +14,14 @@
 	<!-- wp:post-template -->
 		<!-- wp:post-title {"level":2,"isLink":true} /-->
 		<!-- wp:post-featured-image {"isLink":true} /-->
-		<!-- wp:pattern {"slug":"ale/hidden-post-meta"} /-->
+		<!-- wp:pattern {"slug":"serjik-fse/hidden-post-meta"} /-->
 		<!-- wp:post-excerpt {"moreText":"Read more"} /-->
 		<!-- wp:spacer {"height":"1rem"} -->
 		<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
 		<!-- /wp:spacer -->
 	<!-- /wp:post-template -->
 	<!-- wp:query-no-results -->
-	<!-- wp:paragraph --><p><?php esc_html_e( 'No results found.', 'ale'); ?></p><!-- /wp:paragraph -->
+	<!-- wp:paragraph --><p><?php esc_html_e( 'No results found.', 'serjik-fse'); ?></p><!-- /wp:paragraph -->
 	<!-- /wp:query-no-results -->
 	<!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
 	<!-- wp:query-pagination-previous /-->

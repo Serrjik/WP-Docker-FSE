@@ -1,10 +1,10 @@
 <?php
 /**
  * Title: Comments
- * Slug: ale/comments
+ * Slug: serjik-fse/comments
  * Categories: text
  *
- * @package ale
+ * @package serjik-fse
  * @since 1.0.0
  */
 ?>
@@ -14,7 +14,7 @@
 		<!-- wp:comments -->
 		<div class="wp-block-comments">
 			<!-- wp:heading -->
-			<h2><?php esc_html_e( 'Comments', 'ale' ); ?></h2>
+			<h2><?php esc_html_e( 'Comments', 'serjik-fse' ); ?></h2>
 			<!-- /wp:heading -->
 			<!-- wp:comments-title /-->
 			<!-- wp:comment-template -->

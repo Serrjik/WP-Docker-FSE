@@ -1,12 +1,12 @@
-=== Ale ===
-Contributors: aletheme
+=== Serjik-FSE ===
+Contributors: Serjik
 Tested up to: 6.4
 Requires at least: 6.4
 Requires PHP: 7.4
 Version: 100.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Copyright: aletheme
+Copyright: Serjik
 
 A full site editing theme. Basic version.
 
@@ -33,7 +33,7 @@ For changelogs please see the Github repository.
 1.0.0 Initial release
 
 == Licence ==
-Ale is distributed under the terms of the GNU GPL.
+Serjik-FSE is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

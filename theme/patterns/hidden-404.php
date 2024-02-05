@@ -1,19 +1,19 @@
 <?php
 /**
  * Title: 404
- * Slug: ale/404
+ * Slug: serjik-fse/404
  * Inserter: no
  *
- * @package ale
+ * @package serjik-fse
  * @since 1.0.0
  */
 ?>
 <!-- wp:heading {"textAlign":"center", "level": 1} -->
 <h1 class="wp-block-heading has-text-align-center">
-	<?php esc_html_e( 'Page not found', 'ale' ); ?>
+	<?php esc_html_e( 'Page not found', 'serjik-fse' ); ?>
 </h1>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try a search?', 'ale' ); ?></p>
+<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try a search?', 'serjik-fse' ); ?></p>
 <!-- /wp:paragraph -->
-<!-- wp:search {"label":"<?php echo esc_html_x( 'Search', 'Search form label', 'ale' ); ?>","showLabel":false,"buttonText":"<?php echo esc_html_x( 'Search', 'Search form submit button text', 'ale' ); ?>"} /-->
+<!-- wp:search {"label":"<?php echo esc_html_x( 'Search', 'Search form label', 'serjik-fse' ); ?>","showLabel":false,"buttonText":"<?php echo esc_html_x( 'Search', 'Search form submit button text', 'serjik-fse' ); ?>"} /-->

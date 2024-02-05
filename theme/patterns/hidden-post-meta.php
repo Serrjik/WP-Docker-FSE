@@ -1,10 +1,10 @@
 <?php
 /**
  * Title: Hidden post meta
- * Slug: ale/hidden-post-meta
+ * Slug: serjik-fse/hidden-post-meta
  * Inserter: no
  *
- * @package ale
+ * @package serjik-fse
  * @since 1.0.0
  */
 ?>
@@ -18,7 +18,7 @@
 	<!-- /wp:group -->
 	<!-- wp:group {"layout":{"type":"constrained"}} -->
 	<div class="wp-block-group">
-		<!-- wp:post-terms {"term":"category","prefix":"<?php echo esc_html__( 'Categories: ', 'ale' )?>"} /-->
+		<!-- wp:post-terms {"term":"category","prefix":"<?php echo esc_html__( 'Categories: ', 'serjik-fse' )?>"} /-->
 	</div>
 	<!-- /wp:group -->
 </div>
