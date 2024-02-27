@@ -1,3 +1,4 @@
 .DS_Store
 /.srv/*
 !/.srv/custom.ini
+node_modules
