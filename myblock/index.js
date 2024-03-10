@@ -1,5 +1,5 @@
-var registerBlockType = wp.blocks.registerBlockType;
-var createElement = wp.element.createElement;
+const registerBlockType = wp.blocks.registerBlockType;
+const createElement = wp.element.createElement;
 
 registerBlockType( 'serjik/myblock', {
 	// Gutenberg-часть (бэкенд)
